@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/akcyjka"
+        android:title="Skasuj"
+        app:showAsAction="ifRoom">
+    </item>
+    <item
+        android:id="@+id/akcyjkas"
+        android:title="Nie wiem"
+        app:showAsAction="ifRoom">
+    </item>
+    <item
+        android:id="@+id/akcyjkass"
+        android:title="Nie wiem"
+        app:showAsAction="ifRoom">
+    </item>
+</menu>

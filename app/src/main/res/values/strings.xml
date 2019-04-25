@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Baza telefoników7</string>
+    <string name="policja">POLICJA</string>
+    <string name="plus">+</string>
+    <string name="edytuj">Edytuj dane</string>
+    <string name="producent">Producent:</string>
+    <string name="model">Model:</string>
+    <string name="wersja">Wersja androida:</string>
+    <string name="www">WWW</string>
+    <string name="anuluj">Anuluj</string>
+    <string name="zapisz">Zapisz</string>
+</resources>
